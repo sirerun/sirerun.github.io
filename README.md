@@ -10,7 +10,7 @@ Push to the publishing branch and select that branch and `/ (root)` in repositor
 
 Zati is the flagship: an AI worker workspace in development, evolving from Zatiti. The retired Sire product is not marketed here. The company theme is AI work under human direction; the portfolio covers memory, personal follow-through, learning, agent collaboration, governance checks, verification and decision history. This does not imply the products form an integrated or generally available platform.
 
-The moving mosaic has 15 original tiles: four Zati, one each for the seven other featured products, two Sire marks and two color tiles. JavaScript duplicates columns for the loop. Logos and 2–4-word descriptions replace placeholder drawings. Feature panels are brand artwork, not product screenshots or live demos. Nine additional projects remain in a native disclosure.
+The moving mosaic has 21 original tiles: six Zati, one each for the eleven other featured products, two Sire marks and two color tiles. JavaScript duplicates columns for the loop. Logos and 2–4-word descriptions replace placeholder drawings. Feature panels are brand artwork, not product screenshots or live demos. Ten additional projects remain in a native disclosure.
 
 Contact links go to Sanifu. The footer says “Built in California, USA.” The icon toggles light/dark mode, starts from the system preference and remembers a choice. Motion can be paused, stops offscreen and respects reduced-motion preferences. All substantive content is available without JavaScript.
 

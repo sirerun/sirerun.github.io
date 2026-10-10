@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="280" height="280">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="80" y1="280" x2="200" y2="0">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="50%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <mask id="holes">
+      <rect width="280" height="280" fill="white"/>
+      <circle cx="128" cy="232" r="9" fill="black"/>
+      <circle cx="88" cy="114" r="9" fill="black"/>
+      <circle cx="168" cy="114" r="9" fill="black"/>
+      <circle cx="176" cy="42" r="9" fill="black"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#holes)">
+    <!-- Vertical stem -->
+    <line x1="128" y1="68" x2="128" y2="232" stroke="url(#grad)" stroke-width="22" stroke-linecap="round"/>
+
+    <!-- Crossbar -->
+    <line x1="88" y1="114" x2="168" y2="114" stroke="url(#grad)" stroke-width="22" stroke-linecap="round"/>
+
+    <!-- Top hook curving right -->
+    <path d="M128,68 C128,20 176,20 176,42" stroke="url(#grad)" stroke-width="22" fill="none" stroke-linecap="round"/>
+
+    <!-- Ring nodes -->
+    <circle cx="128" cy="232" r="21" fill="url(#grad)"/>
+    <circle cx="88" cy="114" r="21" fill="url(#grad)"/>
+    <circle cx="168" cy="114" r="21" fill="url(#grad)"/>
+    <circle cx="176" cy="42" r="21" fill="url(#grad)"/>
+  </g>
+</svg>
