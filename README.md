@@ -17,3 +17,7 @@ The original JPEGs are preserved without re-encoding; the nine images total abou
 Contact links go to Sanifu. The footer says “Built in California, USA.” The icon toggles light/dark mode, starts from the system preference and remembers a choice. Motion can be paused, stops offscreen and respects reduced-motion preferences. All substantive content is available without JavaScript.
 
 No build or automated tests were run for this update. Live deployment and browser acceptance are not claimed.
+
+## Privacy and SMS terms
+
+Owner-approved policy pages are served at `/privacy/` and `/terms/`. They cover sire.run and the is-optimized.com audit/report-delivery service; other products can have separate policies. Footer links make both pages discoverable. The approved disclosure and no-sale/no-marketing-sharing commitment are included. Publishing these pages does not activate SMS or establish campaign approval.
